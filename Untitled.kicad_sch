@@ -237,6 +237,11 @@
   )
 
 
+  (text "THIS IS THE SECOND CHANGE TEST" (at 80.645 106.045 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a824fd10-1b55-493e-ab25-cc0a34ebcd89)
+  )
+
   (symbol (lib_id "Device:R_Photo") (at 124.46 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 46794e98-5e23-461b-8145-a29e90da5588)
