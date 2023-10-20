@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HOPE_FOOTPRINTS")(type "KiCad")(uri "${KIPRJMOD}/HOPE_FOOTPRINTS.pretty")(options "")(descr ""))
+)
